@@ -1,0 +1,1 @@
+app.config['SECRET_KEY'] = '5058drew40'
