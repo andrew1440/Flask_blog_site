@@ -39,3 +39,10 @@ git clone https://github.com/Andrew1440/Flask_blog_site.git $$ cd Flask_blog_sit
 python3.6 -m virtualenv virtual
 
 source virtual/bin/activate
+
+## Setting up environment variables
+Create an .env file and set up the given variable\
+
+SECRET_KEY='<Secret_key>'
+DEBUG=True
+
