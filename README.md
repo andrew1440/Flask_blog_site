@@ -64,3 +64,5 @@ Feel free to make pull requests
 ## Contacts
 drewodongo470@gmail.com
 
+## License
+MIT {license}
