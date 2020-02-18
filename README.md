@@ -33,5 +33,5 @@ Flask
 - Flask-WTF
 
 ## Clone into the Repo and checkout into the project folder
-git clone https://github.com/Andrew1440/Flask_blog_site.git $$ cd Blog-Forum
+git clone https://github.com/Andrew1440/Flask_blog_site.git $$ cd Flask_blog_site
 
