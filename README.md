@@ -16,3 +16,18 @@ virtualenv
 Pip
 
 Flask
+
+## Technologies Used
+- Python3.6
+
+- HTML5
+
+- Bootstrap 
+
+- Heroku
+
+- Flask
+
+- Flask-script
+
+- Flask-WTF
