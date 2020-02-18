@@ -46,3 +46,7 @@ Create an .env file and set up the given variable\
 SECRET_KEY='<Secret_key>'
 DEBUG=True
 
+## Check dependecies and store them in requirements.text
+
+pip freeze > requirements.txt
+
