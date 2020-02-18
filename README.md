@@ -56,3 +56,8 @@ python3.6 flaskblog.py
 ## Known Bugs
 
 ##
+
+## Contributions
+
+Feel free to make pull requests
+
