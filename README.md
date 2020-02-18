@@ -52,3 +52,7 @@ pip freeze > requirements.txt
 
 ## Run the application
 python3.6 flaskblog.py 
+
+## Known Bugs
+
+##
