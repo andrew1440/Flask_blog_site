@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.4
 blinker==1.4
 cffi==1.14.0
 Click==7.0
-cryptography==2.1.4
+cryptography==2.3
 cycler==0.10.0
 dominate==2.4.0
 enum34==1.1.6
