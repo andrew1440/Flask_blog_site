@@ -1,1 +1,1 @@
-app.config['SECRET_KEY'] = '5058drew40'
+app.config['SECRET_KEY'] = 'any secret string'
