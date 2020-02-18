@@ -35,3 +35,7 @@ Flask
 ## Clone into the Repo and checkout into the project folder
 git clone https://github.com/Andrew1440/Flask_blog_site.git $$ cd Flask_blog_site
 
+## Create and activate the virtual enviroment
+python3.6 -m virtualenv virtual
+
+source virtual/bin/activate
