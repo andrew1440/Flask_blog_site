@@ -1,7 +1,8 @@
-#Flask_blog_site
+# Flask_blog_site
+
  This application allows users to post,view blog posts.
  
-##Description
+## Description
 
 This is an application that allows users to sign in or sign up and post blogs abroad.It also allows them to comment and delete on the blogs they have created
 
@@ -18,27 +19,36 @@ Development Installation
 To get the code..
 
 Cloning the repository:
-https://github.com/chepkiruibetty/amazing-blog
+https://github.com/andrew1440/flask-blog-site
 Move to the folder and install requirements
+
 cd blog-post
+
 pip install -r requirements.txt
+
 Exporting Configurations
+
 export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
+
 Running the application
+
 python3.6 app.py server
+
 Open the application on your browser 127.0.0.1:8008.
 
 ## Technology used
+
 Python3.6
 
 Flask
 
 Heroku
 
-Contact Information
+## Contact Information
+
 drewodongo470@gmail.com
 
-Live Link To Project
+## Live Link To Project
 https://blog-here.herokuapp.com/
 
 ## codebeat
