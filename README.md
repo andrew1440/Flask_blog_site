@@ -1,7 +1,7 @@
-# Flask_blog_site
+#Flask_blog_site
  This application allows users to post,view blog posts.
  
-## Description
+##Description
 
 This is an application that allows users to sign in or sign up and post blogs abroad.It also allows them to comment and delete on the blogs they have created
 
