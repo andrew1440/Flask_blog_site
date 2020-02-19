@@ -53,7 +53,7 @@ drewodongo470@gmail.com
 https://blog-here.herokuapp.com/
 
 ## codebeat
-
+[![codebeat badge](https://codebeat.co/badges/a20262ec-2429-41c8-b173-78ccb9aed56b)](https://codebeat.co/projects/github-com-andrew1440-flask_blog_site-master
 
 ## License
 Licensed underMIT license
