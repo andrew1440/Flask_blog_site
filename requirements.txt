@@ -29,7 +29,7 @@ keyrings.alt==3.0
 Mako==1.1.1
 MarkupSafe==1.1.1
 matplotlib==2.1.1
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.45.1
 Pillow==5.1.0
 psycopg2==2.8.4
